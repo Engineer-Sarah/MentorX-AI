@@ -1,0 +1,148 @@
+{
+  "careers": [
+    {
+      "title": "Software Engineer",
+      "key_skills": ["Python", "JavaScript", "React", "SQL", "Git", "System Design"],
+      "salary_min_pkr": 80000,
+      "salary_max_pkr": 350000,
+      "outlook": "Very High Demand",
+      "description": "Build and maintain software systems. One of Pakistan's fastest-growing fields with strong remote and freelance opportunities."
+    },
+    {
+      "title": "Data Scientist",
+      "key_skills": ["Python", "Statistics", "Machine Learning", "SQL", "Pandas", "Data Visualisation"],
+      "salary_min_pkr": 100000,
+      "salary_max_pkr": 400000,
+      "outlook": "High Demand",
+      "description": "Extract insights from data to drive business decisions. Growing rapidly in Pakistan's fintech and e-commerce sectors."
+    },
+    {
+      "title": "AI / ML Engineer",
+      "key_skills": ["Python", "TensorFlow", "PyTorch", "Deep Learning", "NLP", "MLOps"],
+      "salary_min_pkr": 120000,
+      "salary_max_pkr": 500000,
+      "outlook": "Very High Demand",
+      "description": "Design and deploy AI models. Pakistan's AI ecosystem is expanding with companies like Arbisoft, 10Pearls, and remote global roles."
+    },
+    {
+      "title": "Digital Marketing Specialist",
+      "key_skills": ["SEO", "Google Ads", "Social Media Marketing", "Content Strategy", "Analytics", "Copywriting"],
+      "salary_min_pkr": 50000,
+      "salary_max_pkr": 200000,
+      "outlook": "High Demand",
+      "description": "Drive online growth through marketing campaigns. Pakistan's booming e-commerce and freelance market offers abundant opportunities."
+    },
+    {
+      "title": "UX / UI Designer",
+      "key_skills": ["Figma", "User Research", "Wireframing", "Prototyping", "Design Systems", "HTML/CSS"],
+      "salary_min_pkr": 60000,
+      "salary_max_pkr": 250000,
+      "outlook": "Growing",
+      "description": "Design intuitive digital experiences. Increasingly valued by Pakistani tech companies and international remote teams."
+    },
+    {
+      "title": "Cybersecurity Analyst",
+      "key_skills": ["Network Security", "Ethical Hacking", "SIEM Tools", "Incident Response", "Compliance", "Linux"],
+      "salary_min_pkr": 90000,
+      "salary_max_pkr": 350000,
+      "outlook": "High Demand",
+      "description": "Protect organisations from cyber threats. Critical role as Pakistan's digital infrastructure grows."
+    },
+    {
+      "title": "Cloud / DevOps Engineer",
+      "key_skills": ["AWS", "Docker", "Kubernetes", "CI/CD", "Terraform", "Linux"],
+      "salary_min_pkr": 100000,
+      "salary_max_pkr": 450000,
+      "outlook": "Very High Demand",
+      "description": "Manage cloud infrastructure and deployment pipelines. High demand from both local companies and global remote positions."
+    },
+    {
+      "title": "Product Manager",
+      "key_skills": ["Product Strategy", "Agile", "User Research", "Data Analysis", "Stakeholder Management", "Roadmapping"],
+      "salary_min_pkr": 120000,
+      "salary_max_pkr": 450000,
+      "outlook": "Growing",
+      "description": "Lead product vision and execution. Pakistani startups and scale-ups increasingly need skilled PMs."
+    },
+    {
+      "title": "Mobile App Developer",
+      "key_skills": ["Flutter", "React Native", "Kotlin", "Swift", "Firebase", "REST APIs"],
+      "salary_min_pkr": 70000,
+      "salary_max_pkr": 300000,
+      "outlook": "High Demand",
+      "description": "Build mobile applications. Pakistan has a strong mobile-first user base, creating steady demand."
+    },
+    {
+      "title": "Business Analyst",
+      "key_skills": ["Requirements Gathering", "SQL", "Excel", "Process Modelling", "Stakeholder Communication", "Jira"],
+      "salary_min_pkr": 60000,
+      "salary_max_pkr": 250000,
+      "outlook": "Steady Demand",
+      "description": "Bridge business needs with technical solutions. Important role in Pakistan's growing IT services sector."
+    },
+    {
+      "title": "Content Creator / Strategist",
+      "key_skills": ["Copywriting", "Video Editing", "Social Media", "SEO", "Storytelling", "Analytics"],
+      "salary_min_pkr": 40000,
+      "salary_max_pkr": 180000,
+      "outlook": "Growing",
+      "description": "Create and strategise digital content. Pakistan's creator economy and brand marketing spend are growing rapidly."
+    },
+    {
+      "title": "Blockchain Developer",
+      "key_skills": ["Solidity", "Smart Contracts", "Web3.js", "Ethereum", "DeFi", "Cryptography"],
+      "salary_min_pkr": 150000,
+      "salary_max_pkr": 600000,
+      "outlook": "Niche but Growing",
+      "description": "Build decentralised applications. Pakistan ranks among top countries in crypto adoption and blockchain freelancing."
+    },
+    {
+      "title": "Healthcare IT Specialist",
+      "key_skills": ["HL7/FHIR", "EHR Systems", "Python", "Database Management", "HIPAA Compliance", "Health Informatics"],
+      "salary_min_pkr": 80000,
+      "salary_max_pkr": 300000,
+      "outlook": "Emerging",
+      "description": "Digitise healthcare systems. Pakistan's health-tech sector is expanding with companies like Marham, Oladoc, and Sehat Kahani."
+    },
+    {
+      "title": "FinTech Analyst",
+      "key_skills": ["Financial Modelling", "Python", "Data Analysis", "Payment Systems", "Regulatory Knowledge", "SQL"],
+      "salary_min_pkr": 90000,
+      "salary_max_pkr": 350000,
+      "outlook": "High Demand",
+      "description": "Drive innovation in financial services. Pakistan's fintech ecosystem (Easypaisa, JazzCash, SadaPay, NayaPay) is booming."
+    },
+    {
+      "title": "Project Manager",
+      "key_skills": ["Agile/Scrum", "PMP", "Risk Management", "Budgeting", "Team Leadership", "Jira/Asana"],
+      "salary_min_pkr": 80000,
+      "salary_max_pkr": 350000,
+      "outlook": "Steady Demand",
+      "description": "Lead projects to successful delivery. Essential across IT services, construction, and development sectors in Pakistan."
+    },
+    {
+      "title": "Freelance Tech Consultant",
+      "key_skills": ["Client Communication", "Proposal Writing", "Technical Expertise", "Time Management", "Upwork/Fiverr", "Self-Marketing"],
+      "salary_min_pkr": 50000,
+      "salary_max_pkr": 500000,
+      "outlook": "Very High Potential",
+      "description": "Work independently with global clients. Pakistan is the 4th largest freelancing market globally."
+    },
+    {
+      "title": "EdTech Specialist",
+      "key_skills": ["Instructional Design", "LMS Platforms", "Content Development", "Video Production", "Gamification", "Pedagogy"],
+      "salary_min_pkr": 50000,
+      "salary_max_pkr": 200000,
+      "outlook": "Growing",
+      "description": "Transform education through technology. Pakistan's EdTech sector (Sabaq, Maqsad, Knowledge Platform) is expanding rapidly."
+    },
+    {
+      "title": "Full Stack Developer",
+      "key_skills": ["React/Next.js", "Node.js", "Python/Django", "PostgreSQL", "REST APIs", "Docker"],
+      "salary_min_pkr": 90000,
+      "salary_max_pkr": 400000,
+      "outlook": "Very High Demand",
+      "description": "Handle both frontend and backend development. One of the most versatile and in-demand roles in Pakistan's tech industry."
+    }
+  ]
+}

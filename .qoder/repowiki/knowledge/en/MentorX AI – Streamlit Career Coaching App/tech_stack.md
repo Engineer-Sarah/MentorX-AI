@@ -1,0 +1,1 @@
+Streamlit (>=1.30) for the UI, Google Generative AI SDK (`google-generativeai`, model `gemini-2.0-flash`) for LLM-powered career advice, Python `sqlite3` for local persistence in `mentorx.db`, `python-dotenv` for API key management, `pandas` and `plotly` for data visualization.

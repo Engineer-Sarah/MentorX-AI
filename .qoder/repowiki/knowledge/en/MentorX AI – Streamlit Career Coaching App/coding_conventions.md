@@ -1,0 +1,6 @@
+- Each Streamlit page lives in `pages/<number>_<Title>.py`, imports `src.*` modules, and guards execution by checking `st.session_state.session_id` before rendering content.
+- Gemini interactions are centralized in `src/gemini_service.py` using prompt templates that request strictly valid JSON responses, parsed via `_parse_json` which strips markdown code fences, and wrapped in `_safe_call` returning typed fallback dicts on any exception.
+- All complex or nested data stored in SQLite is serialized with `json.dumps` on write and deserialized with `json.loads` on read inside dedicated getter functions in `src/database.py`.
+- Feature-specific tables share a common schema pattern: an auto-incrementing `id`, a `session_id` foreign key linking to `sessions`, JSON columns for structured payloads, and a `created_at` / `completed_at` timestamp.
+- Session state is used as the cross-page communication layer, with keys like `session_id`, `user_name`, `assessment_answers`, `interest_scores`, `personality_traits`, and `assessment_done` initialized lazily on first access.
+- Configuration is externalized via environment variables loaded with `python-dotenv.load_dotenv()` at module top-level, with sensible defaults (e.g., `MODEL_NAME = 'gemini-2.0-flash'`, `API_KEY = os.getenv('GOOGLE_API_KEY', '')`).

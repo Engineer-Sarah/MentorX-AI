@@ -1,0 +1,29 @@
+# Environment variables – keep secrets local
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Database
+*.db
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,1 @@
+A Streamlit-based career coaching web app that guides users through assessment, recommendation, skill-gap analysis, roadmap generation, resume review, mock interviews, and a readiness dashboard powered by Google Gemini.

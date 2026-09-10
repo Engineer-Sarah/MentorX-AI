@@ -1,0 +1,1 @@
+Run with `streamlit run app.py` from the `mentorx-ai` directory; requires a `GOOGLE_API_KEY` set in `.env` (see `.env.example`). The SQLite database `mentorx.db` is auto-created on first run via `init_db()` guarded by `st.session_state.db_initialized`.

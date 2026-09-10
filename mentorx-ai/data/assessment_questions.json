@@ -1,0 +1,133 @@
+{
+  "title": "MentorX Career Assessment",
+  "description": "Answer each statement honestly on a scale of 1 to 5.",
+  "scale": {
+    "1": "Strongly Disagree",
+    "2": "Disagree",
+    "3": "Neutral",
+    "4": "Agree",
+    "5": "Strongly Agree"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "category": "interests",
+      "dimension": "technical",
+      "statement": "I enjoy solving technical problems using code and software tools."
+    },
+    {
+      "id": 2,
+      "category": "interests",
+      "dimension": "creative",
+      "statement": "I enjoy creating visual designs, graphics, or creative content."
+    },
+    {
+      "id": 3,
+      "category": "interests",
+      "dimension": "social",
+      "statement": "I find it fulfilling to help others learn and grow."
+    },
+    {
+      "id": 4,
+      "category": "interests",
+      "dimension": "analytical",
+      "statement": "I enjoy analysing data, finding patterns, and drawing insights."
+    },
+    {
+      "id": 5,
+      "category": "interests",
+      "dimension": "entrepreneurial",
+      "statement": "I am drawn to building businesses and exploring new ventures."
+    },
+    {
+      "id": 6,
+      "category": "work_style",
+      "dimension": "teamwork",
+      "statement": "I prefer working in teams rather than working alone."
+    },
+    {
+      "id": 7,
+      "category": "work_style",
+      "dimension": "flexibility",
+      "statement": "I thrive in dynamic environments where priorities change frequently."
+    },
+    {
+      "id": 8,
+      "category": "work_style",
+      "dimension": "remote",
+      "statement": "I would prefer a remote or hybrid work setup over a traditional office."
+    },
+    {
+      "id": 9,
+      "category": "work_style",
+      "dimension": "communication",
+      "statement": "I enjoy presenting ideas and communicating with diverse audiences."
+    },
+    {
+      "id": 10,
+      "category": "work_style",
+      "dimension": "leadership",
+      "statement": "I naturally take charge and guide others towards a common goal."
+    },
+    {
+      "id": 11,
+      "category": "skills",
+      "dimension": "analytical_thinking",
+      "statement": "I am good at breaking down complex problems into smaller, manageable parts."
+    },
+    {
+      "id": 12,
+      "category": "skills",
+      "dimension": "communication_skill",
+      "statement": "I can explain technical or complex concepts clearly to non-experts."
+    },
+    {
+      "id": 13,
+      "category": "skills",
+      "dimension": "problem_solving",
+      "statement": "I enjoy finding creative solutions to challenges that others find difficult."
+    },
+    {
+      "id": 14,
+      "category": "skills",
+      "dimension": "creativity",
+      "statement": "I often think of innovative approaches that others have not considered."
+    },
+    {
+      "id": 15,
+      "category": "skills",
+      "dimension": "technical_ability",
+      "statement": "I am comfortable learning and using new software, tools, and technologies."
+    },
+    {
+      "id": 16,
+      "category": "values",
+      "dimension": "salary",
+      "statement": "Financial compensation is the most important factor in my career choice."
+    },
+    {
+      "id": 17,
+      "category": "values",
+      "dimension": "work_life",
+      "statement": "Having a healthy work-life balance is more important than rapid career growth."
+    },
+    {
+      "id": 18,
+      "category": "values",
+      "dimension": "impact",
+      "statement": "I want my work to make a meaningful difference in society."
+    },
+    {
+      "id": 19,
+      "category": "values",
+      "dimension": "growth",
+      "statement": "I prioritise continuous learning and professional development opportunities."
+    },
+    {
+      "id": 20,
+      "category": "values",
+      "dimension": "stability",
+      "statement": "I prefer a stable, predictable career over a high-risk, high-reward path."
+    }
+  ]
+}
